@@ -1,0 +1,17 @@
+pos-app/
+│
+├── backend/
+│   ├── app/
+│   │   └── main.py
+│   ├── requirements.txt
+│   └── Dockerfile（必要ない場合は省略）
+│
+├── frontend/
+│   ├── pages/
+│   │   └── index.js
+│   ├── styles/
+│   │   └── globals.css
+│   ├── package.json
+│   └── Dockerfile（必要ない場合は省略）
+│
+└── docker-compose.yml（必要ない場合は省略）
